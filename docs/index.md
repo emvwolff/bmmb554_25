@@ -19,4 +19,6 @@ description: "wolff"
 
 [image](https://th.bing.com/th/id/OIP.AFe5ROUZuAbePm475TzuggAAAA?rs=1&pid=ImgDetMain)
 
+can import files to docs created on other coding platforms (ex hackmd - download and to docs) 
+
 galaxy training for [additional info](https://training.galaxyproject.org/)
