@@ -19,3 +19,4 @@ description: "wolff"
 
 [image](https://th.bing.com/th/id/OIP.AFe5ROUZuAbePm475TzuggAAAA?rs=1&pid=ImgDetMain)
 
+galxy training for additional info 
